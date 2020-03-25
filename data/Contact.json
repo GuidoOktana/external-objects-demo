@@ -11,7 +11,6 @@
             "FirstName": "Rose",
             "LastName": "Gonzalez",
             "MobilePhone": "(512) 757-9340",
-            "Name": "Rose Gonzalez",
             "Phone": "(512) 757-6000",
             "Title": "SVP, Procurement",
             "JobsId__c": "1"
@@ -27,7 +26,6 @@
             "FirstName": "Sean",
             "LastName": "Forbes",
             "MobilePhone": "(512) 757-4561",
-            "Name": "Sean Forbes",
             "Phone": "(512) 757-6000",
             "Title": "CFO",
             "JobsId__c": "2"
@@ -40,7 +38,6 @@
             "Email": "jrogers@burlington.com",
             "FirstName": "Jack",
             "LastName": "Rogers",
-            "Name": "Jack Rogers",
             "Phone": "(336) 222-7000",
             "Title": "VP, Facilities",
             "JobsId__c": "3"
@@ -56,7 +53,6 @@
             "FirstName": "Pat",
             "LastName": "Stumuller",
             "MobilePhone": "(014) 454-6364",
-            "Name": "Pat Stumuller",
             "Phone": "(014) 427-4427",
             "Title": "SVP, Administration and Finance",
             "JobsId__c": "4"
