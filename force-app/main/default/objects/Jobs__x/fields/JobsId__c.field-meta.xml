@@ -9,8 +9,8 @@
     <isSortingDisabled>false</isSortingDisabled>
     <label>JobsId</label>
     <length>18</length>
-    <referenceTargetField>Account.JobsId__c</referenceTargetField>
-    <referenceTo>Account</referenceTo>
+    <referenceTargetField>Contact.JobsId__c</referenceTargetField>
+    <referenceTo>Contact</referenceTo>
     <relationshipLabel>Jobs</relationshipLabel>
     <relationshipName>Jobs</relationshipName>
     <type>IndirectLookup</type>

@@ -1,10 +1,10 @@
 [
     {
-        "sobject": "Account",
+        "sobject": "Contact",
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-            "Account.json"
+            "Contact.json"
         ]
     }
 ]
