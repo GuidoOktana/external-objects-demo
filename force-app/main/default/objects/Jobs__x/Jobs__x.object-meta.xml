@@ -119,9 +119,16 @@
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
     <enableSearch>true</enableSearch>
-    <externalDataSource>TestOdata</externalDataSource>
+    <externalDataSource>OdataHero</externalDataSource>
     <externalName>Jobs</externalName>
     <label>Jobs</label>
     <pluralLabel>Jobs</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts>
+        <customTabListAdditionalFields>ExternalId</customTabListAdditionalFields>
+        <customTabListAdditionalFields>DisplayUrl</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Job_title__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Job_category__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Job_family__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Job_description__c</customTabListAdditionalFields>
+    </searchLayouts>
 </CustomObject>
