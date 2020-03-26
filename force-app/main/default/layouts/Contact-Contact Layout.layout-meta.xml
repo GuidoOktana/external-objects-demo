@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
-    <excludeButtons>RequestUseSfdc</excludeButtons>
     <excludeButtons>Submit</excludeButtons>
     <layoutSections>
         <customLabel>false</customLabel>
@@ -203,6 +202,17 @@
         </relatedContentItems>
     </relatedContent>
     <relatedLists>
+        <fields>ExternalId</fields>
+        <fields>DisplayUrl</fields>
+        <fields>Job_title__c</fields>
+        <fields>Job_description__c</fields>
+        <fields>Job_family__c</fields>
+        <fields>Employee_type__c</fields>
+        <fields>Mid_point_salary__c</fields>
+        <fields>Standard_hours__c</fields>
+        <relatedList>Jobs__x.JobsId__c</relatedList>
+    </relatedLists>
+    <relatedLists>
         <fields>OPPORTUNITY.NAME</fields>
         <fields>OPPORTUNITY.STAGE_NAME</fields>
         <fields>OPPORTUNITY.AMOUNT</fields>
@@ -257,17 +267,6 @@
         <fields>EMAIL_STATUS.LAST_OPEN_DATE</fields>
         <relatedList>RelatedEmailStatusList</relatedList>
     </relatedLists>
-    <relatedLists>
-        <fields>ExternalId</fields>
-        <fields>DisplayUrl</fields>
-        <fields>Job_title__c</fields>
-        <fields>Job_description__c</fields>
-        <fields>Job_family__c</fields>
-        <fields>Employee_type__c</fields>
-        <fields>Mid_point_salary__c</fields>
-        <fields>Standard_hours__c</fields>
-        <relatedList>Jobs__x.JobsId__c</relatedList>
-    </relatedLists>
     <relatedObjects>AccountId</relatedObjects>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
@@ -275,7 +274,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h0t0000011SYZ</masterLabel>
+        <masterLabel>00h54000001yAxI</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
