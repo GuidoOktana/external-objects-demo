@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Attribute__c</fullName>
-    <description>Attribute</description>
-    <externalDeveloperName>Attribute</externalDeveloperName>
+    <fullName>Date_time_off__c</fullName>
+    <description>Date_time_off</description>
+    <externalDeveloperName>Date_time_off</externalDeveloperName>
     <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Attribute</label>
-    <length>128</length>
+    <label>Date_time_off</label>
     <required>false</required>
-    <type>Text</type>
-    <unique>false</unique>
+    <type>DateTime</type>
 </CustomField>

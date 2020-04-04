@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Candidate__c</fullName>
-    <description>Candidate</description>
-    <externalDeveloperName>Candidate</externalDeveloperName>
+    <fullName>Submitted_on__c</fullName>
+    <description>Submitted_on</description>
+    <externalDeveloperName>Submitted_on</externalDeveloperName>
     <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Candidate</label>
-    <precision>18</precision>
+    <label>Submitted_on</label>
     <required>false</required>
-    <scale>0</scale>
-    <type>Number</type>
-    <unique>false</unique>
+    <type>DateTime</type>
 </CustomField>

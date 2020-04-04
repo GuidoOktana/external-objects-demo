@@ -114,14 +114,14 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>InDevelopment</deploymentStatus>
-    <description>Equipments</description>
+    <description>TimeOffs</description>
     <enableFeeds>false</enableFeeds>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
     <enableSearch>true</enableSearch>
-    <externalDataSource>TestOdata</externalDataSource>
-    <externalName>Equipments</externalName>
-    <label>Equipments</label>
-    <pluralLabel>Equipments</pluralLabel>
+    <externalDataSource>Workday</externalDataSource>
+    <externalName>TimeOffs</externalName>
+    <label>TimeOffs</label>
+    <pluralLabel>TimeOffs</pluralLabel>
     <searchLayouts/>
 </CustomObject>

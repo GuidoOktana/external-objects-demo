@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Score__c</fullName>
-    <description>Score</description>
-    <externalDeveloperName>Score</externalDeveloperName>
+    <fullName>Employee_id__c</fullName>
+    <description>Employee_id</description>
+    <externalDeveloperName>Employee_id</externalDeveloperName>
     <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Score</label>
-    <precision>18</precision>
+    <label>Employee_id</label>
+    <length>128</length>
     <required>false</required>
-    <scale>0</scale>
-    <type>Number</type>
+    <type>Text</type>
     <unique>false</unique>
 </CustomField>
