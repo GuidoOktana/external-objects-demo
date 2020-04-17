@@ -7,7 +7,7 @@
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Standard_work_period</label>
+    <label>Standard Work Period</label>
     <length>128</length>
     <required>false</required>
     <type>Text</type>

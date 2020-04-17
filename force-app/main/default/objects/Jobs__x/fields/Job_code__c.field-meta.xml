@@ -7,7 +7,7 @@
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Job_code</label>
+    <label>Job Code</label>
     <length>128</length>
     <required>false</required>
     <type>Text</type>

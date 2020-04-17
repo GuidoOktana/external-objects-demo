@@ -7,7 +7,7 @@
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Grade_level</label>
+    <label>Grade Level</label>
     <length>128</length>
     <required>false</required>
     <type>Text</type>

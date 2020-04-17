@@ -7,7 +7,7 @@
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Standard_hours</label>
+    <label>Standard Hours</label>
     <length>128</length>
     <required>false</required>
     <type>Text</type>

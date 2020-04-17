@@ -119,16 +119,23 @@
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
     <enableSearch>true</enableSearch>
-    <externalDataSource>OdataHero</externalDataSource>
+    <externalDataSource>Workday</externalDataSource>
     <externalName>Jobs</externalName>
     <label>Jobs</label>
     <pluralLabel>Jobs</pluralLabel>
     <searchLayouts>
         <customTabListAdditionalFields>ExternalId</customTabListAdditionalFields>
-        <customTabListAdditionalFields>DisplayUrl</customTabListAdditionalFields>
         <customTabListAdditionalFields>Job_title__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>Job_category__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>Job_family__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>Job_description__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Job_code__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Job_status__c</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>ExternalId</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ExternalId</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>ExternalId</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Job_title__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Job_description__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Job_family__c</searchResultsAdditionalFields>
     </searchLayouts>
 </CustomObject>

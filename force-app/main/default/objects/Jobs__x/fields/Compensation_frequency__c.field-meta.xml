@@ -7,7 +7,7 @@
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
-    <label>Compensation_frequency</label>
+    <label>Compensation Frequency</label>
     <length>128</length>
     <required>false</required>
     <type>Text</type>
